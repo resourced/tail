@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/hpcloud/tail.svg)](https://travis-ci.org/hpcloud/tail)
 
-*NOTE: * This is a fork of [github.com/hpcloud/tail](//github.com/hpcloud/tail)
+**NOTE:** This is a fork of [github.com/hpcloud/tail](//github.com/hpcloud/tail)
 
 
 # Go package for tail-ing files
